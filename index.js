@@ -1,0 +1,5 @@
+console.log('index')
+const one = require('./module/one.js')
+const two = require('./module/two.js')
+one()
+two()
